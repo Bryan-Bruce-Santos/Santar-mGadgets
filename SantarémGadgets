@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SantarémGadgets</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">SantarémGadgets</div>
+            <ul>
+                <li><a href="#home">Início</a></li>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#services">Serviços</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home" class="section home">
+        <h1>Bem-vindo à SantarémGadgets</h1>
+        <p>A melhor tecnologia para você!</p>
+    </section>
+
+    <section id="about" class="section about">
+        <h2>Sobre Nós</h2>
+        <p>A SantarémGadgets é uma empresa líder em tecnologia, fornecendo os melhores dispositivos e soluções tecnológicas para nossos clientes.</p>
+    </section>
+
+    <section id="services" class="section services">
+        <h2>Nossos Serviços</h2>
+        <div class="card">
+            <img src="images/service1.jpg" alt="Serviço 1">
+            <h3>Consultoria Tecnológica</h3>
+            <p>Oferecemos consultoria especializada para ajudar sua empresa a crescer.</p>
+        </div>
+        <div class="card">
+            <img src="images/service2.jpg" alt="Serviço 2">
+            <h3>Suporte Técnico</h3>
+            <p>Nossa equipe está disponível 24/7 para oferecer suporte técnico.</p>
+        </div>
+        <div class="card">
+            <img src="images/service3.jpg" alt="Serviço 3">
+            <h3>Venda de Gadgets</h3>
+            <p>Os melhores gadgets do mercado, disponíveis para você.</p>
+        </div>
+    </section>
+
+    <section id="contact" class="section contact">
+        <h2>Contato</h2>
+        <p>Entre em contato conosco pelo e-mail: contato@santaremgadgets.com ou pelo telefone: (91) 9999-9999</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 SantarémGadgets. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
